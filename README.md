@@ -1,5 +1,5 @@
 # System-Resource-Monitor
-h2 {OS Project -} <br>
+OS Project - <br>
 This Project is done using Python where we used libraries like tkinter for GUI, psutil library for getting memory,disk, network details
 and all currently running processes along with their id's, os and platform libraries for getting basic user information. And Modules like
 FigureCanvasTkAgg and Figure from matplotlib for the sake of visualization in memory and disk tab.<br>
